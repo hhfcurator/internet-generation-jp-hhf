@@ -1,0 +1,24 @@
+# patcher.py 実行時の中間ファイル
+tools/_ui_dll_mapping.json
+tools/__pycache__/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+Thumbs.db
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Backups
+*.bak
+*.tmp
+
+# PyInstaller build artifacts (再生成可)
+build/
+dist/
+*.spec.bak

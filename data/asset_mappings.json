@@ -1,0 +1,3794 @@
+[
+  {
+    "cn": "中毒",
+    "en": "Poison ",
+    "jp": "毒",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25357,
+        "en_pos": 128,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "持续期间主角攻击敌人，会使敌人一段时间中处于中毒状态。",
+    "en": "Attacks within the duration of the buff will cause enemies to be poisoned for a period of time.",
+    "jp": "バフ持続中に敵を攻撃すると、一定時間、敵を毒状態にする。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25357,
+        "en_pos": 140,
+        "cn_pos": 40
+      }
+    ]
+  },
+  {
+    "cn": "全场伤害",
+    "en": "Wipeout",
+    "jp": "全体攻撃",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25358,
+        "en_pos": 88,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "对场上所有敌人造成一次伤害",
+    "en": "Inflict damage to every enemy across the level.",
+    "jp": "フィールド上のすべての敵に1回ダメージを与える。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25358,
+        "en_pos": 100,
+        "cn_pos": 44
+      }
+    ]
+  },
+  {
+    "cn": "冲击",
+    "en": "Ram",
+    "jp": "体当たり",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25359,
+        "en_pos": 92,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "对碰撞的所有敌人造成伤害和击退。",
+    "en": "Cause damage and knockback to every enemy that is hit.",
+    "jp": "衝突した敵すべてにダメージとノックバックを与える。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25359,
+        "en_pos": 100,
+        "cn_pos": 40
+      }
+    ]
+  },
+  {
+    "cn": "冻结",
+    "en": "Freeze ",
+    "jp": "凍結",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25360,
+        "en_pos": 80,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "一次性冰冻周围的敌人。",
+    "en": "Freeze all nearby enemies once.",
+    "jp": "周囲の敵を一度だけ凍結させる。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25360,
+        "en_pos": 92,
+        "cn_pos": 40
+      }
+    ]
+  },
+  {
+    "cn": "击晕",
+    "en": "Stun ",
+    "jp": "スタン",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25361,
+        "en_pos": 104,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "持续时间内的攻击会让敌人眩晕一段时间。",
+    "en": "Attacks within the duration of the buff will stun the enemy for a period of time.",
+    "jp": "バフ持続中の攻撃が、一定時間、敵をスタン状態にする。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25361,
+        "en_pos": 116,
+        "cn_pos": 40
+      }
+    ]
+  },
+  {
+    "cn": "击退",
+    "en": "Knockback ",
+    "jp": "ノックバック",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25362,
+        "en_pos": 92,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "主角的任何攻击都会强力击退敌人。",
+    "en": "Any attacks from the protagonist will powerfully knock back enemies.",
+    "jp": "主人公のどんな攻撃でも、敵を強くノックバックさせる。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25362,
+        "en_pos": 108,
+        "cn_pos": 40
+      }
+    ]
+  },
+  {
+    "cn": "加速",
+    "en": "Speed Up",
+    "jp": "スピードアップ",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25363,
+        "en_pos": 84,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "移动速度增加，并免疫眩晕。",
+    "en": "Movement speed is increased, and become invulnerable to stun.",
+    "jp": "移動速度が上がり、スタンが無効になる。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25363,
+        "en_pos": 96,
+        "cn_pos": 40
+      }
+    ]
+  },
+  {
+    "cn": "弹幕",
+    "en": "Barrage",
+    "jp": "弾幕",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25364,
+        "en_pos": 92,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "主角持续向周围的敌人发射子弹。",
+    "en": "The protagonist will continuously shoot at nearby enemies. ",
+    "jp": "主人公が周囲の敵に向かって弾を撃ち続ける。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25364,
+        "en_pos": 104,
+        "cn_pos": 40
+      }
+    ]
+  },
+  {
+    "cn": "弹幕环绕",
+    "en": "Orbital Barrage",
+    "jp": "周回弾幕",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25365,
+        "en_pos": 120,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "期间玩家身边生成几颗子弹,围绕着玩家不停的旋转。",
+    "en": "Form a few bullets that orbit around the protagonist within the duration of this buff.",
+    "jp": "効果中、プレイヤーの周りに数発の弾が生成され、プレイヤーを中心にずっと旋回する。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25365,
+        "en_pos": 140,
+        "cn_pos": 44
+      }
+    ]
+  },
+  {
+    "cn": "思想链接",
+    "en": "Mind Link",
+    "jp": "思想リンク",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25367,
+        "en_pos": 104,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "你成为了群体的一部分，群体庇护着你。",
+    "en": "You are now a part of the group, the group shelters you.",
+    "jp": "あなたは集団の一員となり、集団があなたを庇護してくれる。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25367,
+        "en_pos": 120,
+        "cn_pos": 44
+      }
+    ]
+  },
+  {
+    "cn": "恐惧",
+    "en": "Terror ",
+    "jp": "恐怖",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25368,
+        "en_pos": 136,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "持续期间主角攻击敌人，会使敌人不停乱走，持续一段时间后恢复。",
+    "en": "Attacks within the duration of the buff will cause enemies to panic for a period of time.",
+    "jp": "バフ持続中、敵を攻撃すると、しばらく敵がふらふらと暴走するようになる。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25368,
+        "en_pos": 148,
+        "cn_pos": 40
+      }
+    ]
+  },
+  {
+    "cn": "无冷却",
+    "en": "Zero Cooldown",
+    "jp": "クールダウン無効",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25369,
+        "en_pos": 88,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "让所有攻击都没有冷却时间。",
+    "en": "Remove cooldown from all attacks.",
+    "jp": "全攻撃のクールダウンがなくなる。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25369,
+        "en_pos": 108,
+        "cn_pos": 44
+      }
+    ]
+  },
+  {
+    "cn": "无敌",
+    "en": "Invincible",
+    "jp": "無敵",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25370,
+        "en_pos": 72,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "免疫几乎所有伤害。",
+    "en": "Invulnerable to almost all forms of damage.",
+    "jp": "ほとんど全てのダメージを無効化する。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25370,
+        "en_pos": 88,
+        "cn_pos": 40
+      }
+    ]
+  },
+  {
+    "cn": "时缓",
+    "en": "Time Dilation",
+    "jp": "時間減速",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25371,
+        "en_pos": 68,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "全场时间减速。",
+    "en": "Time is slowed down across the entire level.",
+    "jp": "フィールド全体の時間が遅くなる。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25371,
+        "en_pos": 88,
+        "cn_pos": 40
+      }
+    ]
+  },
+  {
+    "cn": "暴击",
+    "en": "Critical Strike",
+    "jp": "クリティカル",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25372,
+        "en_pos": 100,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "会让玩家对敌人造成的伤害大幅度增加。",
+    "en": "The damage that the protagonist inflicts on the enemies will be significantly increased.",
+    "jp": "プレイヤーが敵に与えるダメージが大幅に増加する。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25372,
+        "en_pos": 120,
+        "cn_pos": 40
+      }
+    ]
+  },
+  {
+    "cn": "杀怪加钱",
+    "en": "Bounty Time",
+    "jp": "キル報酬",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25373,
+        "en_pos": 120,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "在持续时间内杀死的所有敌人，都会掉落更多的金币。",
+    "en": "Enemies drop extra coins when killed within the duration of this buff.",
+    "jp": "バフ持続中に倒した敵は、追加の金貨を落とす。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25373,
+        "en_pos": 136,
+        "cn_pos": 44
+      }
+    ]
+  },
+  {
+    "cn": "杀怪回血",
+    "en": "Regen Time",
+    "jp": "キル回復",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25374,
+        "en_pos": 120,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "在持续时间内杀死的所有敌人，都会让主角少量回血。",
+    "en": "Receive minor healing for each kill within the duration of this buff.",
+    "jp": "バフ持続中、敵を倒すたびに主人公が少量回復する。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25374,
+        "en_pos": 136,
+        "cn_pos": 44
+      }
+    ]
+  },
+  {
+    "cn": "杀怪增益",
+    "en": "Kill Bonus",
+    "jp": "キル時バフ",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25375,
+        "en_pos": 132,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "给附近的敌人施加一个buff，在敌人死亡时必定会爆出一个buff。",
+    "en": "Marks a nearby enemy, causing them to drop a buff when they are killed.",
+    "jp": "近くの敵にマークを付け、その敵が倒れたとき必ずバフを1つ落とすようにする。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25375,
+        "en_pos": 148,
+        "cn_pos": 44
+      }
+    ]
+  },
+  {
+    "cn": "满血",
+    "en": "Max Heal",
+    "jp": "全回復",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25378,
+        "en_pos": 60,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "瞬间满血。",
+    "en": "Heal to full health.",
+    "jp": "一瞬で全回復する。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25378,
+        "en_pos": 72,
+        "cn_pos": 40
+      }
+    ]
+  },
+  {
+    "cn": "燃烧",
+    "en": "Burn ",
+    "jp": "バーン",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25379,
+        "en_pos": 100,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "一段时间内，不停的让周围的敌人燃烧。",
+    "en": "Continuously cause enemies nearby to burn for a duration of time.",
+    "jp": "一定時間、周囲の敵をバーン状態にし続ける。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25379,
+        "en_pos": 112,
+        "cn_pos": 40
+      }
+    ]
+  },
+  {
+    "cn": "范围爆炸",
+    "en": "Blast Zone",
+    "jp": "範囲爆発",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25381,
+        "en_pos": 96,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "生成一片会持续产生爆炸的范围。",
+    "en": "Generate an area that continuously explodes.",
+    "jp": "持続的に爆発が発生する範囲を生成する。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25381,
+        "en_pos": 112,
+        "cn_pos": 44
+      }
+    ]
+  },
+  {
+    "cn": "虚弱",
+    "en": "Weakness ",
+    "jp": "弱体化",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25382,
+        "en_pos": 184,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "持续期间主角攻击敌人，会使敌人移速会减慢，同时攻击力也会降低，被挂上虚弱的敌人永远不会恢复。",
+    "en": "Attacks within the duration of the buff will cause enemies to slow down, and have decreased attack. Enemies applied with this effect will never recover.",
+    "jp": "バフ持続中、敵を攻撃すると、敵の移動速度が下がり、攻撃力も下がる。弱体化された敵は二度と回復しない。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25382,
+        "en_pos": 200,
+        "cn_pos": 40
+      }
+    ]
+  },
+  {
+    "cn": "人鱼",
+    "en": "Mermaid",
+    "jp": "人魚",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25384,
+        "en_pos": 180,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "拥有发言权的家伙，让自己的声音在网络中广泛传播。\n\n会朝着四面八方发射一圈弹幕，子弹会反弹。",
+    "en": "Someone who has a say. Allows their own voice to be broadcasted across the internet.\n\nThey will shoot circles of bullets that can ricochet. ",
+    "jp": "発言権を持つ者。自分の声をネット上で広範に拡散する。\n\n全方向に円状の弾幕を放ち、弾は跳ね返る。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25384,
+        "en_pos": 192,
+        "cn_pos": 40
+      }
+    ]
+  },
+  {
+    "cn": "变色龙",
+    "en": "Chameleon ",
+    "jp": "カメレオン",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25385,
+        "en_pos": 136,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "会隐身接近并攻击你，不过仔细看看，还是可以发现一些踪迹的。",
+    "en": "They will turn invisible, approach you, and attack. But if you look closely, you can still find some traces.",
+    "jp": "透明化して近づき攻撃してくる。が、よく見ると痕跡で気付ける。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25385,
+        "en_pos": 152,
+        "cn_pos": 44
+      }
+    ]
+  },
+  {
+    "cn": "史莱姆",
+    "en": "Slime ",
+    "jp": "スライム",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25386,
+        "en_pos": 164,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "随处可见的路人角色，言行举止都跟你差不多。\n\n也跟你一样会攻击，翻滚和发射子弹。",
+    "en": "Random person that can be found anywhere, behaves very much just like you.\n\nAttacks, rolls, and shoots bullets just like you.",
+    "jp": "どこにでもいる人型キャラ。立ち振る舞いも、攻撃・回避・弾の発射までプレイヤーとほぼ同じ。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25386,
+        "en_pos": 176,
+        "cn_pos": 44
+      }
+    ]
+  },
+  {
+    "cn": "史莱姆球",
+    "en": "Slime Ball ",
+    "jp": "スライム弾",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25387,
+        "en_pos": 236,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "随处可见的一小团信息，互联网的基本组成部分。在你被他伤害之前，你永远不会知道这坨信息的内容究竟是什么。\n\n当你靠近时会攻击你。",
+    "en": "A common blob of data. It is a fundamental component of the internet. You'll never know its content before you get attacked by it.\n\nThey will attack when you get close.",
+    "jp": "ネットのどこにでもある情報の塊。インターネットの基本構成要素。被弾するまで中身は分からない。\n\n接近すると攻撃してくる。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25387,
+        "en_pos": 252,
+        "cn_pos": 44
+      }
+    ]
+  },
+  {
+    "cn": "大史莱姆",
+    "en": "Big Slime ",
+    "jp": "ビッグスライム",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25388,
+        "en_pos": 180,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "一群人组成的小圈子，威力无穷。千万不要招惹到他们。\n\n当你靠近时会攻击你。\n会朝你进行扑击。",
+    "en": "A small community formed by a group of people. Is extremely powerful. Never try to mess with them.\n\nThey will attack when you get close.\nThey will pounce toward you.",
+    "jp": "人の小集団が形成する界隈。とてつもなく強い。絶対に手を出してはいけない。\n\n接近すると攻撃してくる。\nあなたに飛びかかってくる。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25388,
+        "en_pos": 196,
+        "cn_pos": 44
+      }
+    ]
+  },
+  {
+    "cn": "大水母",
+    "en": "Large Jellyfish",
+    "jp": "大クラゲ",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25389,
+        "en_pos": 180,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "输出观点，同化见到的每一个人。\n\n在空中朝你俯冲并吞噬你，但你可以快速左右晃动来摆脱吞噬。",
+    "en": "They output opinions and assimilate everyone they see.\n\nThey will swoop down and engulf you. But you can escape through rapidly jiggling left and right.",
+    "jp": "意見を吐き出し、出会う全員を同化していく。\n\n空中からあなたに飛びかかり呑み込もうとするが、左右に素早く動けば振りほどける。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25389,
+        "en_pos": 200,
+        "cn_pos": 44
+      }
+    ]
+  },
+  {
+    "cn": "大精灵",
+    "en": "Giant Fairy",
+    "jp": "大妖精",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25390,
+        "en_pos": 136,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "在空中飞行绝不会掉下来，会时不时的在路径上生出很多小精灵。",
+    "en": "They will never fall to the ground, and will spawn many Mini Fairies along their path once in a while.",
+    "jp": "空中を飛び続け、決して地面に降りない。経路にときどき小妖精を多数生み出す。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25390,
+        "en_pos": 152,
+        "cn_pos": 44
+      }
+    ]
+  },
+  {
+    "cn": "小史莱姆",
+    "en": "Mini Slime ",
+    "jp": "ミニスライム",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25391,
+        "en_pos": 160,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "速度很快的小家伙，对什么都懵懵懂懂的，让人感觉很烦。\n\n当你靠近时会攻击你。",
+    "en": "A speedy little thing, clueless about everything, and tends to get rather annoying.\n\nThey will attack when you get close.",
+    "jp": "素早くて、何にも気付かず、地味にウザい小物。\n\n接近すると攻撃してくる。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25391,
+        "en_pos": 176,
+        "cn_pos": 44
+      }
+    ]
+  },
+  {
+    "cn": "小精灵",
+    "en": "Mini Fairy",
+    "jp": "小妖精",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25392,
+        "en_pos": 120,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "会在空中飞行一段时间后，变成一发朝你飞行的子弹。",
+    "en": "After flying around for a while, they will turn into a bullet that flies toward you.",
+    "jp": "しばらく空中を飛んだあと、あなたを追う1発の弾に変化する。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25392,
+        "en_pos": 136,
+        "cn_pos": 44
+      }
+    ]
+  },
+  {
+    "cn": "巨大史莱姆",
+    "en": "Gigantic Slime",
+    "jp": "巨大スライム",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25393,
+        "en_pos": 208,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "主流意志的践行者，如铁一般不可撼动，他们遍布于整个网络。\n\n当你靠近时会攻击你。\n会在很远的地方朝着你冲撞。",
+    "en": "They are the mainstream practitioners, and are absolutely unshakable. They are everywhere on the internet.\n\nThey will attack when you get close.\nThey will charge toward you from far away.",
+    "jp": "主流の意志を体現する者たち。鉄のように揺るがず、ネット全体に遍在する。\n\n接近すると攻撃してくる。\n遠方からも突進してくる。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25393,
+        "en_pos": 228,
+        "cn_pos": 48
+      }
+    ]
+  },
+  {
+    "cn": "水母",
+    "en": "Jellyfish ",
+    "jp": "クラゲ",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25394,
+        "en_pos": 104,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "在空中飞行，会在你靠近时落下进行攻击。",
+    "en": "They fly in the air, and drop-attack when you come near.",
+    "jp": "空を飛び、近づくと急降下して攻撃してくる。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25394,
+        "en_pos": 120,
+        "cn_pos": 40
+      }
+    ]
+  },
+  {
+    "cn": "海葵",
+    "en": "Sea Anemone",
+    "jp": "イソギンチャク",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25395,
+        "en_pos": 212,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "会向你投掷一个水球子弹，对落地处造成伤害，并产生一滩会造成伤害的水。\n\n会潜入地下，然后出现在场上的另外一个地方。",
+    "en": "They will launch a water bomb at you, which deals damage upon landing, and creates a pond of water that deals damage.\n\nThey will submerge underground, and reappear somewhere else.",
+    "jp": "水球の弾をあなたに投げつけてくる。着弾地点にダメージを与え、ダメージを与える水たまりを残す。\n\n地中に潜り、フィールドの別の場所に現れる。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25395,
+        "en_pos": 228,
+        "cn_pos": 40
+      }
+    ]
+  },
+  {
+    "cn": "爆炸史莱姆球",
+    "en": "Explosive Slime",
+    "jp": "爆裂スライム弾",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25396,
+        "en_pos": 244,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "充满攻击性的爆论，会对每一个靠近他的人造成伤害。生产出这条信息的人早已不见踪影。\n\n会跳向你的位置，并在落地处爆炸造成范围伤害。",
+    "en": "A very offensive opinion that damages anyone who is near it. The person that produced this data is nowhere to be found.\n\nThey will jump toward you, then explodes and deals AoE damage upon landing.",
+    "jp": "攻撃的な暴論の塊。近づく者すべてを傷つける。この情報を生み出した人物の姿は、もはやどこにもない。\n\nあなたの位置に飛びかかり、着地点で爆発して範囲ダメージを与える。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25396,
+        "en_pos": 264,
+        "cn_pos": 52
+      }
+    ]
+  },
+  {
+    "cn": "章鱼",
+    "en": "Octopus ",
+    "jp": "タコ",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25397,
+        "en_pos": 120,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "会朝着一个方向直线冲刺，期间不停的在路上释放子弹。",
+    "en": "They will charge in a straight line, during which will continuously fire bullets around themselves.",
+    "jp": "直線方向に突進し、その間ずっと進路上に弾を放ち続ける。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25397,
+        "en_pos": 132,
+        "cn_pos": 40
+      }
+    ]
+  },
+  {
+    "cn": "精灵",
+    "en": "Fairy",
+    "jp": "妖精",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25398,
+        "en_pos": 92,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "会在空中朝你俯冲，被撞到会受伤。",
+    "en": "They will swoop toward you, and damage you when you're hit.",
+    "jp": "空中からあなたに急降下してくる。当たるとダメージ。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25398,
+        "en_pos": 104,
+        "cn_pos": 40
+      }
+    ]
+  },
+  {
+    "cn": "老鹰",
+    "en": "Eagle",
+    "jp": "タカ",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25399,
+        "en_pos": 140,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "会在空中朝你发射多个羽毛子弹。\n会在空中朝你俯冲，被撞到会受伤。",
+    "en": "They will shoot multiple feather bullets toward you in the air.\nWill also swoop toward you, damaging you when you're hit.",
+    "jp": "空中からあなたに、羽根の弾を複数発射してくる。\nさらに空中から急降下してくる。当たるとダメージ。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25399,
+        "en_pos": 152,
+        "cn_pos": 40
+      }
+    ]
+  },
+  {
+    "cn": "肥鸟",
+    "en": "Fat Bird ",
+    "jp": "デブ鳥",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25400,
+        "en_pos": 128,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "会在空中快速移动，并时不时的飞到你头顶丢下一颗爆炸蛋。",
+    "en": "They fly fast in the air, and drop explosive eggs on you once in a while.",
+    "jp": "空中を素早く動き回り、ときどきあなたの頭上に来て爆発する卵を落とす。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25400,
+        "en_pos": 144,
+        "cn_pos": 40
+      }
+    ]
+  },
+  {
+    "cn": "花",
+    "en": "Flower ",
+    "jp": "花モブ",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25401,
+        "en_pos": 172,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "到处发泄情绪的人，所到之处都弥漫着不幸的气氛。\n\n会在你周围释放出让你无法使用技能的烟雾。",
+    "en": "Someone who vents their anger everywhere. An atmosphere of misfortune spreads wherever they go.\n\nThey will release gas around you that disables your abilities.",
+    "jp": "誰彼かまわず感情をぶちまける人。行く先々に不運の空気をまき散らす。\n\nあなたの周囲に煙を放ち、スキルを使えなくする。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25401,
+        "en_pos": 184,
+        "cn_pos": 36
+      }
+    ]
+  },
+  {
+    "cn": "草",
+    "en": "Grass ",
+    "jp": "草モブ",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25402,
+        "en_pos": 180,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "喜欢到处夸夸的人，为大家带来好心情，非常的受欢迎。\n\n会为周围的敌人回血，并增加敌人的移动速度。",
+    "en": "Someone who gives compliments around all the time, putting everyone else in a good mood, and thus is very popular.\n\nThey will heal nearby enemies, and increase their movement speed.",
+    "jp": "誰彼かまわず褒めまくる人。皆をいい気分にしてくれるので、とても人気がある。\n\n周囲の敵を回復させ、移動速度も上げる。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25402,
+        "en_pos": 192,
+        "cn_pos": 36
+      }
+    ]
+  },
+  {
+    "cn": "蛾子",
+    "en": "Moth ",
+    "jp": "ガ",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25403,
+        "en_pos": 132,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "会在空中乱飞，并时不时的落地，释放一圈在地图上停留的子弹。",
+    "en": "They fly around randomly in the air. Occasionally, they will land, and release a circle of bullets that stay on the map.",
+    "jp": "空中をでたらめに飛び回り、ときどき着地して、その場に残る弾を円状に放つ。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25403,
+        "en_pos": 144,
+        "cn_pos": 40
+      }
+    ]
+  },
+  {
+    "cn": "蜘蛛",
+    "en": "Spider ",
+    "jp": "クモ",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25404,
+        "en_pos": 180,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "小有人气的家伙，操控着和自己不相配的能力。\n\n会操控许多小蜘蛛不停的攻击你，而自己只会逃跑。",
+    "en": "They are somewhat popular. Wields an ability that they don't deserve.\n\nThey will control many small spiders to attack you, but they themselves will only try to run away from you.",
+    "jp": "そこそこの人気者で、自分に見合わない能力を操る。\n\n多数の小グモを操ってあなたを攻撃させながら、自分は逃げ回る。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25404,
+        "en_pos": 192,
+        "cn_pos": 40
+      }
+    ]
+  },
+  {
+    "cn": "蝙蝠",
+    "en": "Bat ",
+    "jp": "コウモリ",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25405,
+        "en_pos": 100,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "会在空中朝你发射多个带有跟踪的子弹。",
+    "en": "They will shoot several tracking bullets toward you in the air.",
+    "jp": "空中からあなたに、追尾する弾を複数発射してくる。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25405,
+        "en_pos": 108,
+        "cn_pos": 40
+      }
+    ]
+  },
+  {
+    "cn": "西瓜虫",
+    "en": "Roly Poly",
+    "jp": "ダンゴムシ",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25406,
+        "en_pos": 112,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "会在场上不停的滚动和反弹，撞击会造成伤害。",
+    "en": "They will continuously roll and bounce around, and inflict damage when they hit you.",
+    "jp": "場内を転がり跳ね回り続け、接触するとダメージ。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25406,
+        "en_pos": 128,
+        "cn_pos": 44
+      }
+    ]
+  },
+  {
+    "cn": "骑士",
+    "en": "Knight ",
+    "jp": "騎士",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25407,
+        "en_pos": 136,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "会朝你冲撞，如果被撞到就会眩晕一段时间。\n\n有盔甲时免疫伤害。",
+    "en": "They will charge toward you, and stun you when you're hit.\n\nThey are invulnerable to damage when armored, and stun you when they take damage near you. Try to defeat them using long-range attacks.",
+    "jp": "あなたに突進してくる。当たるとしばらくスタンする。\n\n鎧をまとっているときはダメージ無効。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25407,
+        "en_pos": 148,
+        "cn_pos": 40
+      }
+    ]
+  },
+  {
+    "cn": "黑鼬",
+    "en": "Black Weasel ",
+    "jp": "クロイタチ",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25408,
+        "en_pos": 164,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "专业人士，在自己熟悉的领域中无所不能。\n\n会在场上释放大范围的烟雾，遮蔽你的视野。",
+    "en": "Professional. They are omnipotent in their area of expertise.\n\nThey will release a large area of smoke, blocking your vision",
+    "jp": "プロフェッショナル。自分の得意分野では何でもできる。\n\nフィールド全体に煙幕を張り、あなたの視界を奪う。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25408,
+        "en_pos": 184,
+        "cn_pos": 40
+      }
+    ]
+  },
+  {
+    "cn": "冲刺攻击+",
+    "en": "Dash Attack+",
+    "jp": "ダッシュ攻撃+",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25410,
+        "en_pos": 200,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "【蓄力震地/闪现攻击+{OP}】\n【{OP}键进入冷却】\n\n朝着相应方向最近的一个敌人快速突刺，对沿途敌人造成伤害。",
+    "en": "[Charged Earthshatter / Flash Attack +{OP}] \n[{OP} key enters cooldown]\n\nDash toward the closest enemy in the corresponding direction, dealing damage to enemies in the way.",
+    "jp": "【蓄力震地/閃光攻撃+{OP}】\n【{OP}キーがクールダウンに入る】\n\n指定方向にいる最寄りの敵へ高速突進し、道中の敵にダメージを与える。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25410,
+        "en_pos": 216,
+        "cn_pos": 48
+      }
+    ]
+  },
+  {
+    "cn": "冲刺攻击",
+    "en": "Dash Attack",
+    "jp": "ダッシュ攻撃",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25411,
+        "en_pos": 180,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "【轻攻击+{OP}】【{OP}键进入冷却】\n\n朝着相应方向最近的一个敌人快速突刺，对沿途敌人造成伤害。",
+    "en": "[Neutral Attack+{OP} key] [{OP} key enters cooldown]\n\nDash toward the closest enemy in the corresponding direction, dealing damage to enemies in the way.\n",
+    "jp": "【通常攻撃+{OP}】【{OP}キーがクールダウンに入る】\n\n指定方向にいる最寄りの敵へ高速突進し、道中の敵にダメージを与える。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25411,
+        "en_pos": 196,
+        "cn_pos": 44
+      }
+    ]
+  },
+  {
+    "cn": "击落",
+    "en": "Smash",
+    "jp": "撃ち落とし",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25412,
+        "en_pos": 148,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "【浮空+{OP}】【{OP}键进入冷却】\n\n和附近的怪物一起下砸，并造成范围伤害。",
+    "en": "[When airborne + {OP}]\n[{OP} key enters cooldown]\n\nSmash downwards along with nearby enemies, dealing AoE damage.\n",
+    "jp": "【空中+{OP}】【{OP}キーがクールダウンに入る】\n\n近くの敵と一緒に地面へ叩きつけ、範囲ダメージを与える。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25412,
+        "en_pos": 160,
+        "cn_pos": 40
+      }
+    ]
+  },
+  {
+    "cn": "发射",
+    "en": "Fire ",
+    "jp": "発射",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25413,
+        "en_pos": 136,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "【{OP}】【{OP}键进入冷却】\n\n发射一颗子弹，对碰到的敌人造成伤害。",
+    "en": "[{OP} key] [{OP} key enters cooldown]\n\nFire a bullet, dealing damage to enemies that contact it.\n",
+    "jp": "【{OP}】【{OP}キーがクールダウンに入る】\n\n弾を1発発射し、接触した敵にダメージを与える。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25413,
+        "en_pos": 148,
+        "cn_pos": 40
+      }
+    ]
+  },
+  {
+    "cn": "子弹击落",
+    "en": "Bullet Drop",
+    "jp": "弾撃ち落とし",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25414,
+        "en_pos": 136,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "【浮空子弹+{OP}】\n\n聚集附近的敌人，把所有敌人丢下去造成伤害。",
+    "en": "[Aerial Bullet-Time+{OP} key]\n\nPull in nearby enemies, and drop all enemies downwards, dealing damage.",
+    "jp": "【バレットタイム+{OP}】\n\n近くの敵を引き寄せ、まとめて地面へ投げ落としダメージを与える。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25414,
+        "en_pos": 152,
+        "cn_pos": 44
+      }
+    ]
+  },
+  {
+    "cn": "子弹击退",
+    "en": "Pellet Knockback ",
+    "jp": "弾ノックバック",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25415,
+        "en_pos": 188,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "【浮空子弹+{OP}】【{OP}键进入冷却】\n\n击退身边浮空状态的敌人，造成范围伤害，并返回普通浮空状态。",
+    "en": "[Aerial Bullet-Time + {OP}]\n[{OP} key enters cooldown]\n\nKnockback nearby airborne enemies, dealing AoE damage, and exit Bullet Time.",
+    "jp": "【バレットタイム+{OP}】【{OP}キーがクールダウンに入る】\n\n周囲の空中の敵をノックバックし、範囲ダメージを与え、通常の浮空状態に戻る。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25415,
+        "en_pos": 212,
+        "cn_pos": 44
+      }
+    ]
+  },
+  {
+    "cn": "子弹投掷",
+    "en": "Lob",
+    "jp": "弾投擲",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25416,
+        "en_pos": 172,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "【突进+{OP}】\n\n投掷一个抛物线子弹，在落地处产生爆炸，造成范围伤害，并且击飞击退敌人。",
+    "en": "[Dash+{OP} key]\n\nLob a bullet, which explodes upon landing, dealing AoE damage.\n",
+    "jp": "【ステップ+{OP}】\n\n放物線を描く弾を投擲し、落下地点で爆発。範囲ダメージとともに敵を吹き飛ばし、ノックバックさせる。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25416,
+        "en_pos": 180,
+        "cn_pos": 44
+      }
+    ]
+  },
+  {
+    "cn": "子弹突进",
+    "en": "Bullet Smash",
+    "jp": "弾突進",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25417,
+        "en_pos": 232,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "【浮空子弹+{OP}】【{OP}键进入冷却】\n\n玩家和附近的怪物一起朝着相应方向下砸，对落地处造成范围伤害和击飞，并取消{IKUN}技能的蓄力。",
+    "en": "[Aerial Bullet-Time+{OP} key] \n[{OP} key enters cooldown]\n\nSmash toward the corresponding direction along with nearby enemies, dealing AoE damage and launching nearby enemies, removing the charge-up time required for the {IKUN} key.",
+    "jp": "【バレットタイム+{OP}】【{OP}キーがクールダウンに入る】\n\n指定方向へ近くの敵と一緒に叩きつけ、着地点に範囲ダメージと吹き飛ばしを与える。{IKUN}スキルの溜めも解除する。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25417,
+        "en_pos": 248,
+        "cn_pos": 44
+      }
+    ]
+  },
+  {
+    "cn": "浮空子弹+",
+    "en": "Teleport Bullet-Time",
+    "jp": "空中バレットタイム+",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25418,
+        "en_pos": 140,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "【场上存在子弹+{OP}】\n\n闪现到当前子弹的位置，进入子弹时间。",
+    "en": "[When a bullet is present + {OP}]\n\nTeleport above bullet and enter Bullet Time.",
+    "jp": "【弾が場にある+{OP}】\n\n弾の位置へテレポートし、バレットタイムに入る。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25418,
+        "en_pos": 164,
+        "cn_pos": 48
+      }
+    ]
+  },
+  {
+    "cn": "浮空子弹",
+    "en": "Aerial Bullet-Time",
+    "jp": "空中バレットタイム",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25419,
+        "en_pos": 120,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "【浮空+{OP}】\n\n上挑附近的浮空敌人，进入子弹时间。",
+    "en": "[When airborne + {OP}]\n\nAttack nearby airborne enemies, then enter Bullet Time.",
+    "jp": "【空中+{OP}】\n\n近くの空中の敵を打ち上げ、バレットタイムに入る。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25419,
+        "en_pos": 144,
+        "cn_pos": 44
+      }
+    ]
+  },
+  {
+    "cn": "浮空投掷",
+    "en": "Aerial Bombardment",
+    "jp": "空中投擲",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25420,
+        "en_pos": 200,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "【浮空子弹+{OP}】【{OP}键进入冷却】\n\n向脚下发射一颗子弹，在落地处产生爆炸，造成范围伤害，并且击飞敌人。",
+    "en": "[Aerial Bullet-Time+{OP} key]\n[{OP} key enters cooldown]\n\nFire a bullet downwards, which explodes upon landing, dealing AoE damage and launching enemies.",
+    "jp": "【バレットタイム+{OP}】【{OP}キーがクールダウンに入る】\n\n足元へ弾を1発撃ち、着弾地点で爆発。範囲ダメージとともに敵を吹き飛ばす。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25420,
+        "en_pos": 224,
+        "cn_pos": 44
+      }
+    ]
+  },
+  {
+    "cn": "浮空攻击",
+    "en": "Aerial Attack",
+    "jp": "空中攻撃",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25421,
+        "en_pos": 140,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "【浮空+{OP}】【{OP}键进入冷却】\n\n上挑附近的浮空敌人并造成伤害。",
+    "en": "[When airborne + {OP}]\n[{OP} key enters cooldown]\n\nAttack nearby airborne enemies.\n",
+    "jp": "【空中+{OP}】【{OP}キーがクールダウンに入る】\n\n近くの空中の敵を打ち上げ、ダメージを与える。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25421,
+        "en_pos": 160,
+        "cn_pos": 44
+      }
+    ]
+  },
+  {
+    "cn": "浮空突进",
+    "en": "Aerial Dash",
+    "jp": "空中ダッシュ",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25422,
+        "en_pos": 140,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "【浮空+{OP}】【{OP}键进入冷却】\n\n空中突进到附近的浮空敌人身边。",
+    "en": "[When airborne + {OP}] \n[{OP} key enters cooldown]\n\nDash toward a nearby airborne enemy.",
+    "jp": "【空中+{OP}】【{OP}キーがクールダウンに入る】\n\n空中で近くの空中の敵へ突進する。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25422,
+        "en_pos": 156,
+        "cn_pos": 44
+      }
+    ]
+  },
+  {
+    "cn": "突进",
+    "en": "Dash ",
+    "jp": "ステップ",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25423,
+        "en_pos": 120,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "【{OP}】【{OP}键进入冷却】\n\n朝着相应方向短距离突进。",
+    "en": "[{OP} key] [{OP} key enters cooldown]\n\nDash for a short distance toward the corresponding direction.",
+    "jp": "【{OP}】【{OP}キーがクールダウンに入る】\n\n指定方向に短距離ダッシュを行う。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25423,
+        "en_pos": 132,
+        "cn_pos": 40
+      }
+    ]
+  },
+  {
+    "cn": "突进震地",
+    "en": "Leap Slam",
+    "jp": "ジャンプスラム",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25424,
+        "en_pos": 216,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "突进震地\r\n【重攻击+{OP}】【{OP}键进入冷却】 \n\n朝着相应方向突进一段距离后震地，击飞附近的敌人，并取消{IKUN}技能的蓄力。",
+    "en": "[Heavy Attack+{OP} key] \n[{OP} key enters cooldown]\n\nLeap toward the corresponding direction and smash the ground, launching all nearby enemies, removing the charge-up time required for the {IKUN} key.\n",
+    "jp": "突進震地\r\n【重攻撃+{OP}】【{OP}キーがクールダウンに入る】 \n\n指定方向に一定距離突進したあと地震を起こし、周囲の敵を吹き飛ばす。{IKUN}スキルの溜めも解除する。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25424,
+        "en_pos": 232,
+        "cn_pos": 44
+      }
+    ]
+  },
+  {
+    "cn": "翻滚",
+    "en": "Roll",
+    "jp": "回避",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25425,
+        "en_pos": 84,
+        "cn_pos": 28
+      },
+      {
+        "file": "resources.assets.bak",
+        "path_id": 26946,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "resources.assets.bak",
+        "path_id": 27016,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "resources.assets.bak",
+        "path_id": 27452,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "resources.assets.bak",
+        "path_id": 28370,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "resources.assets.bak",
+        "path_id": 28535,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "resources.assets.bak",
+        "path_id": 28691,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level0.bak",
+        "path_id": 1519,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level0.bak",
+        "path_id": 1581,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level0.bak",
+        "path_id": 1696,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level10.bak",
+        "path_id": 1627,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level10.bak",
+        "path_id": 2013,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level10.bak",
+        "path_id": 2128,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level11",
+        "path_id": 1421,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level11",
+        "path_id": 1777,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level11",
+        "path_id": 1860,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level12",
+        "path_id": 1239,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level12",
+        "path_id": 1585,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level12",
+        "path_id": 1664,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level13",
+        "path_id": 1320,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level13",
+        "path_id": 1683,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level13",
+        "path_id": 1770,
+        "en_pos": 44,
+        "cn_pos": 32
+      }
+    ]
+  },
+  {
+    "cn": "【{OP}】\n\n朝着相应方向翻滚。",
+    "en": "[{OP}]\n\nRoll in the corresponding direction.",
+    "jp": "【{OP}】\n\n指定方向に回避ローリングを行う。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25425,
+        "en_pos": 92,
+        "cn_pos": 40
+      }
+    ]
+  },
+  {
+    "cn": "蓄力冲刺",
+    "en": "Charged Strike",
+    "jp": "溜めダッシュ",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25426,
+        "en_pos": 156,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "【突进+{OP}】\n\n短蓄力朝着相应方向最近的一个敌人突刺，对沿途敌人造成伤害。",
+    "en": "[Dash+{OP} key]\n\nAfter a quick charge-up, punch a nearby enemy, dealing damage to enemies in the way.",
+    "jp": "【ステップ+{OP}】\n\n短く溜めたあと、指定方向にいる最寄りの敵へ突進し、道中の敵にダメージを与える。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25426,
+        "en_pos": 176,
+        "cn_pos": 44
+      }
+    ]
+  },
+  {
+    "cn": "蓄力击飞",
+    "en": "Charged Launch",
+    "jp": "チャージランチ",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25427,
+        "en_pos": 96,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "【{OP}】\n\n短蓄力后击飞附近的怪物。",
+    "en": "[{OP} key]\n\nAfter a quick charge-up, launch all nearby enemies upwards.\n",
+    "jp": "【{OP}】\n\n短く溜めたあと、周囲の敵を打ち上げる。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25427,
+        "en_pos": 116,
+        "cn_pos": 44
+      }
+    ]
+  },
+  {
+    "cn": "蓄力连打",
+    "en": "Charged Assault",
+    "jp": "チャージ連打",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25428,
+        "en_pos": 200,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "【重攻击+{OP}】【{OP}键进入冷却】\n\n短蓄力朝着相应方向最近的一个敌人连打，对前方造成多次伤害并多次击退。",
+    "en": "[Heavy Attack+{OP} key] \n[{OP} key enters cooldown]\n\nAfter a quick charge-up, continuously punch a nearby enemy, dealing damage and knockback multiple times.",
+    "jp": "【重攻撃+{OP}】【{OP}キーがクールダウンに入る】\n\n短く溜めたあと、指定方向にいる最寄りの敵に連続攻撃を当て、前方に複数回のダメージとノックバックを与える。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25428,
+        "en_pos": 220,
+        "cn_pos": 44
+      }
+    ]
+  },
+  {
+    "cn": "蓄力震地+",
+    "en": "Charged Earthshatter+",
+    "jp": "蓄力震地+",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25429,
+        "en_pos": 212,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "【冲刺攻击/闪现攻击+{OP}】\n【{OP}键进入冷却】\n\n短蓄力向着相应方向挥出强力一击，对前方扇形区域造成击退和伤害。",
+    "en": "[Dash attack / Flash Attack+{OP} key] \n[{OP} key enters cooldown]\n\nAfter a quick charge-up, swing a powerful attack in the corresponding direction, dealing knockback and damage to enemies in a fan shape region.",
+    "jp": "【ダッシュ攻撃/閃光攻撃+{OP}】\n【{OP}キーがクールダウンに入る】\n\n短く溜めたあと指定方向に強力な一撃を放ち、前方の扇形範囲にノックバックとダメージを与える。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25429,
+        "en_pos": 240,
+        "cn_pos": 48
+      }
+    ]
+  },
+  {
+    "cn": "蓄力震地",
+    "en": "Charged Earthshatter",
+    "jp": "蓄力震地",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25430,
+        "en_pos": 188,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "【轻攻击+{OP}】【{OP}键进入冷却】\n\n短蓄力向着相应方向挥出强力一击，对前方扇形区域造成击退和伤害。",
+    "en": "[Neutral Hit+{OP} key] \n[{OP} key enters cooldown]\n\nAfter a quick charge-up, swing a powerful attack in the corresponding direction, dealing knockback and damage to enemies in a fan shape region.",
+    "jp": "【通常攻撃+{OP}】【{OP}キーがクールダウンに入る】\n\n短く溜めたあと、指定方向に強力な一撃を放ち、前方の扇形範囲にノックバックとダメージを与える。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25430,
+        "en_pos": 212,
+        "cn_pos": 44
+      }
+    ]
+  },
+  {
+    "cn": "行走",
+    "en": "Walk",
+    "jp": "歩行",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25431,
+        "en_pos": 84,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "【{OP}】\n\n朝着相应方向移动。",
+    "en": "[{OP}] \n\nMove toward the corresponding direction.",
+    "jp": "【{OP}】\n\n指定方向に移動する。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25431,
+        "en_pos": 92,
+        "cn_pos": 40
+      }
+    ]
+  },
+  {
+    "cn": "轻攻击",
+    "en": "Neutral Attack",
+    "jp": "通常攻撃",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25432,
+        "en_pos": 120,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "【{OP}】【{OP}键进入冷却】 \n\n朝着相应方向普通攻击。",
+    "en": "[{OP}] [{OP} key enters cooldown]\n\nPerform a normal attack toward the corresponding direction.",
+    "jp": "【{OP}】【{OP}キーがクールダウンに入る】\n\n指定方向に通常攻撃を行う。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25432,
+        "en_pos": 140,
+        "cn_pos": 44
+      }
+    ]
+  },
+  {
+    "cn": "重攻击",
+    "en": "Heavy Attack",
+    "jp": "重攻撃",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25433,
+        "en_pos": 184,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "【蓄力震地/冲刺攻击/闪现攻击/突进+{OP}】\n【{OP}键进入冷却】\n\n比轻攻击伤害更高，范围更大的攻击。",
+    "en": "[Charged Earthshatter/Dash Attack/Flash Attack/Dash+{OP} key] \n[{OP} key enters cooldown]\n\nAn attack that has deals more damage and has more range than Neutral Attack.",
+    "jp": "【蓄力震地/ダッシュ攻撃/閃光攻撃/ステップ+{OP}】\n【{OP}キーがクールダウンに入る】\n\n通常攻撃よりダメージが高く、範囲も広い攻撃。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25433,
+        "en_pos": 200,
+        "cn_pos": 44
+      }
+    ]
+  },
+  {
+    "cn": "闪现击飞",
+    "en": "Flash Launch",
+    "jp": "閃光打ち上げ",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25434,
+        "en_pos": 188,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "【重攻击+{OP}】【{OP}键进入冷却】\n\n突进到相应方向上最近的一个敌人身边，对范围敌人造成伤害并击飞。",
+    "en": "[Heavy Attack+{OP} key] \n[{OP} key enters cooldown]\n\nFlash to a nearby enemy in the corresponding direction, dealing AoE and launching all nearby enemies.",
+    "jp": "【重攻撃+{OP}】【{OP}キーがクールダウンに入る】\n\n指定方向にいる最寄りの敵に突進し、範囲ダメージを与えつつ敵を吹き飛ばす。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25434,
+        "en_pos": 204,
+        "cn_pos": 44
+      }
+    ]
+  },
+  {
+    "cn": "闪现攻击+",
+    "en": "Flash Attack+",
+    "jp": "閃光攻撃+",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25435,
+        "en_pos": 212,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "【蓄力震地/冲刺攻击+{OP}】\n【{OP}键进入冷却】\n\n短蓄力后突进到相应方向上最近的一个敌人身边，对其造成大量伤害。",
+    "en": "[Charged Earthshatter / Dash Attack +{OP} key]\n[{OP} key enters cooldown]\n\nAfter a quick charge-up, flash to a nearby enemy, dealing massive damage.",
+    "jp": "【蓄力震地/ダッシュ攻撃+{OP}】\n【{OP}キーがクールダウンに入る】\n\n短く溜めたあと、指定方向にいる最寄りの敵へ高速突進し、大ダメージを与える。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25435,
+        "en_pos": 232,
+        "cn_pos": 48
+      }
+    ]
+  },
+  {
+    "cn": "闪现攻击",
+    "en": "Flash Attack",
+    "jp": "閃光攻撃",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25436,
+        "en_pos": 188,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "【轻攻击+{OP}】【{OP}键进入冷却】\n\n短蓄力后突进到相应方向上最近的一个敌人身边，对其造成大量伤害。",
+    "en": "[Neutral Hit+{OP} key] \n[{OP} key enters cooldown]\n\nAfter a quick charge-up, flash to a nearby enemy, dealing massive damage.",
+    "jp": "【通常攻撃+{OP}】【{OP}キーがクールダウンに入る】\n\n短く溜めたあと、指定方向にいる最寄りの敵へ高速突進し、大ダメージを与える。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25436,
+        "en_pos": 204,
+        "cn_pos": 44
+      }
+    ]
+  },
+  {
+    "cn": "闪现震地",
+    "en": "Teleport Smash",
+    "jp": "閃光スラム",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25437,
+        "en_pos": 140,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "【场上存在子弹+{OP}】\n\n突进到当前子弹的位置，捶地造成范围伤害。",
+    "en": "[When a bullet is present +{OP}]\n\nTeleport above bullet and smash downwards, dealing AoE damage.",
+    "jp": "【弾が場にある+{OP}】\n\n弾の位置へ突進し、地面を叩いて範囲ダメージを与える。",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 25437,
+        "en_pos": 160,
+        "cn_pos": 44
+      }
+    ]
+  },
+  {
+    "cn": "手柄布局选择",
+    "en": "Gamepad Map Options",
+    "jp": "ゲームパッド設定",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 26963,
+        "en_pos": 56,
+        "cn_pos": 32
+      },
+      {
+        "file": "resources.assets.bak",
+        "path_id": 27415,
+        "en_pos": 56,
+        "cn_pos": 32
+      },
+      {
+        "file": "level0.bak",
+        "path_id": 1520,
+        "en_pos": 56,
+        "cn_pos": 32
+      },
+      {
+        "file": "level10.bak",
+        "path_id": 1734,
+        "en_pos": 56,
+        "cn_pos": 32
+      },
+      {
+        "file": "level11",
+        "path_id": 1534,
+        "en_pos": 56,
+        "cn_pos": 32
+      },
+      {
+        "file": "level12",
+        "path_id": 1357,
+        "en_pos": 56,
+        "cn_pos": 32
+      },
+      {
+        "file": "level13",
+        "path_id": 1444,
+        "en_pos": 56,
+        "cn_pos": 32
+      }
+    ]
+  },
+  {
+    "cn": "冲刺",
+    "en": "Dash",
+    "jp": "ダッシュ",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 27022,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "resources.assets.bak",
+        "path_id": 27347,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "resources.assets.bak",
+        "path_id": 27828,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "resources.assets.bak",
+        "path_id": 28222,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "resources.assets.bak",
+        "path_id": 28575,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "resources.assets.bak",
+        "path_id": 29405,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level0.bak",
+        "path_id": 1526,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level0.bak",
+        "path_id": 1565,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level0.bak",
+        "path_id": 1832,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level10.bak",
+        "path_id": 1845,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level10.bak",
+        "path_id": 1981,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level10.bak",
+        "path_id": 2090,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level11",
+        "path_id": 1629,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level11",
+        "path_id": 1743,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level11",
+        "path_id": 1834,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level12",
+        "path_id": 1434,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level12",
+        "path_id": 1552,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level12",
+        "path_id": 1638,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level13",
+        "path_id": 1525,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level13",
+        "path_id": 1654,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level13",
+        "path_id": 1737,
+        "en_pos": 44,
+        "cn_pos": 32
+      }
+    ]
+  },
+  {
+    "cn": "当前语言是中文",
+    "en": "Current language is English",
+    "jp": "現在の言語は日本語",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 27119,
+        "en_pos": 60,
+        "cn_pos": 32
+      }
+    ]
+  },
+  {
+    "cn": "射击",
+    "en": "Shoot",
+    "jp": "射撃",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 27316,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "resources.assets.bak",
+        "path_id": 27445,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "resources.assets.bak",
+        "path_id": 28150,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "resources.assets.bak",
+        "path_id": 28182,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "resources.assets.bak",
+        "path_id": 28336,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "resources.assets.bak",
+        "path_id": 29060,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level0.bak",
+        "path_id": 1579,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level0.bak",
+        "path_id": 1652,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level0.bak",
+        "path_id": 1657,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level10.bak",
+        "path_id": 1708,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level10.bak",
+        "path_id": 2005,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level10.bak",
+        "path_id": 2228,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level11",
+        "path_id": 1506,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level11",
+        "path_id": 1768,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level11",
+        "path_id": 1952,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level12",
+        "path_id": 1331,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level12",
+        "path_id": 1579,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level12",
+        "path_id": 1744,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level13",
+        "path_id": 1416,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level13",
+        "path_id": 1677,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level13",
+        "path_id": 1849,
+        "en_pos": 44,
+        "cn_pos": 32
+      }
+    ]
+  },
+  {
+    "cn": "击飞",
+    "en": "Knock Up",
+    "jp": "打ち上げ",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 27389,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "resources.assets.bak",
+        "path_id": 27414,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "resources.assets.bak",
+        "path_id": 27453,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "resources.assets.bak",
+        "path_id": 28367,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "resources.assets.bak",
+        "path_id": 28459,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "resources.assets.bak",
+        "path_id": 28471,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level0.bak",
+        "path_id": 1570,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level0.bak",
+        "path_id": 1674,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level0.bak",
+        "path_id": 1685,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level10.bak",
+        "path_id": 1733,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level10.bak",
+        "path_id": 1744,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level10.bak",
+        "path_id": 2040,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level11",
+        "path_id": 1533,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level11",
+        "path_id": 1545,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level11",
+        "path_id": 1805,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level12",
+        "path_id": 1356,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level12",
+        "path_id": 1365,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level12",
+        "path_id": 1614,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level13",
+        "path_id": 1443,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level13",
+        "path_id": 1453,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level13",
+        "path_id": 1712,
+        "en_pos": 44,
+        "cn_pos": 32
+      }
+    ]
+  },
+  {
+    "cn": "配置二",
+    "en": "Option 2",
+    "jp": "設定2",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 27436,
+        "en_pos": 48,
+        "cn_pos": 32
+      },
+      {
+        "file": "resources.assets.bak",
+        "path_id": 28324,
+        "en_pos": 48,
+        "cn_pos": 32
+      },
+      {
+        "file": "level0.bak",
+        "path_id": 1672,
+        "en_pos": 48,
+        "cn_pos": 32
+      },
+      {
+        "file": "level10.bak",
+        "path_id": 1740,
+        "en_pos": 48,
+        "cn_pos": 32
+      },
+      {
+        "file": "level11",
+        "path_id": 1540,
+        "en_pos": 48,
+        "cn_pos": 32
+      },
+      {
+        "file": "level12",
+        "path_id": 1362,
+        "en_pos": 48,
+        "cn_pos": 32
+      },
+      {
+        "file": "level13",
+        "path_id": 1449,
+        "en_pos": 48,
+        "cn_pos": 32
+      }
+    ]
+  },
+  {
+    "cn": "攻击",
+    "en": "Attack",
+    "jp": "攻撃",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 27613,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "resources.assets.bak",
+        "path_id": 27694,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "resources.assets.bak",
+        "path_id": 27900,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "resources.assets.bak",
+        "path_id": 28982,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "resources.assets.bak",
+        "path_id": 29167,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "resources.assets.bak",
+        "path_id": 29454,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level0.bak",
+        "path_id": 1774,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level0.bak",
+        "path_id": 1801,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level0.bak",
+        "path_id": 1838,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level10.bak",
+        "path_id": 1807,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level10.bak",
+        "path_id": 1821,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level10.bak",
+        "path_id": 1892,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level11",
+        "path_id": 1583,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level11",
+        "path_id": 1601,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level11",
+        "path_id": 1642,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level12",
+        "path_id": 1399,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level12",
+        "path_id": 1411,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level12",
+        "path_id": 1448,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level13",
+        "path_id": 1489,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level13",
+        "path_id": 1501,
+        "en_pos": 44,
+        "cn_pos": 32
+      },
+      {
+        "file": "level13",
+        "path_id": 1538,
+        "en_pos": 44,
+        "cn_pos": 32
+      }
+    ]
+  },
+  {
+    "cn": "配置一",
+    "en": "Option 1",
+    "jp": "設定1",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 27986,
+        "en_pos": 48,
+        "cn_pos": 32
+      },
+      {
+        "file": "resources.assets.bak",
+        "path_id": 28914,
+        "en_pos": 48,
+        "cn_pos": 32
+      },
+      {
+        "file": "level0.bak",
+        "path_id": 1763,
+        "en_pos": 48,
+        "cn_pos": 32
+      },
+      {
+        "file": "level10.bak",
+        "path_id": 1914,
+        "en_pos": 48,
+        "cn_pos": 32
+      },
+      {
+        "file": "level11",
+        "path_id": 1671,
+        "en_pos": 48,
+        "cn_pos": 32
+      },
+      {
+        "file": "level12",
+        "path_id": 1476,
+        "en_pos": 48,
+        "cn_pos": 32
+      },
+      {
+        "file": "level13",
+        "path_id": 1564,
+        "en_pos": 48,
+        "cn_pos": 32
+      }
+    ]
+  },
+  {
+    "cn": "经典版",
+    "en": "Original",
+    "jp": "クラシック版",
+    "occurrences": [
+      {
+        "file": "resources.assets.bak",
+        "path_id": 28133,
+        "en_pos": 48,
+        "cn_pos": 32
+      },
+      {
+        "file": "resources.assets.bak",
+        "path_id": 29052,
+        "en_pos": 48,
+        "cn_pos": 32
+      },
+      {
+        "file": "level0.bak",
+        "path_id": 1787,
+        "en_pos": 48,
+        "cn_pos": 32
+      },
+      {
+        "file": "level10.bak",
+        "path_id": 1960,
+        "en_pos": 48,
+        "cn_pos": 32
+      },
+      {
+        "file": "level11",
+        "path_id": 1722,
+        "en_pos": 48,
+        "cn_pos": 32
+      },
+      {
+        "file": "level12",
+        "path_id": 1526,
+        "en_pos": 48,
+        "cn_pos": 32
+      },
+      {
+        "file": "level13",
+        "path_id": 1622,
+        "en_pos": 48,
+        "cn_pos": 32
+      }
+    ]
+  },
+  {
+    "cn": "舔狗",
+    "en": "Yunxing is my superman!",
+    "jp": "允星様は最強！",
+    "occurrences": [
+      {
+        "file": "sharedassets0.assets",
+        "path_id": 1186,
+        "en_pos": 80,
+        "cn_pos": 28
+      }
+    ]
+  },
+  {
+    "cn": "拥挤……我们为什么非得聚在\\n一起呢？",
+    "en": "This place is so crowded...\\n  Why do we all have to\\n stand around here?",
+    "jp": "密集……あたしたち、なんでこんなに\n  集まらなきゃ\n いけないの？",
+    "occurrences": [
+      {
+        "file": "level10.bak",
+        "path_id": 1657,
+        "en_pos": 92,
+        "cn_pos": 32
+      }
+    ]
+  },
+  {
+    "cn": "我是一朵人畜无害的小花。",
+    "en": "I am a totally harmless little \\n flower.",
+    "jp": "あたしは人畜無害な小さなお花。",
+    "occurrences": [
+      {
+        "file": "level11",
+        "path_id": 1451,
+        "en_pos": 72,
+        "cn_pos": 32
+      }
+    ]
+  },
+  {
+    "cn": "你有多久没看过电视了。",
+    "en": "How long has it been since \\n you last watched TV?",
+    "jp": "もう何年もテレビ\\nなんて観てないなぁ。",
+    "occurrences": [
+      {
+        "file": "level26",
+        "path_id": 1580,
+        "en_pos": 884248,
+        "cn_pos": 0
+      }
+    ]
+  },
+  {
+    "cn": "外面的蓝光是月亮吗。",
+    "en": "Is the blue light coming from \\n the moon?",
+    "jp": "あの青い光、月明かり\\nなのかな。",
+    "occurrences": [
+      {
+        "file": "level31",
+        "path_id": 1429,
+        "en_pos": 571924,
+        "cn_pos": 0
+      }
+    ]
+  },
+  {
+    "cn": "没人去给饮水机加水。",
+    "en": "Is anyone going to refill the \\n water dispenser? ",
+    "jp": "誰か給水機に水入れて\\nくれないかな？",
+    "occurrences": [
+      {
+        "file": "level39",
+        "path_id": 1503,
+        "en_pos": 1956040,
+        "cn_pos": 0
+      }
+    ]
+  },
+  {
+    "cn": "这里让人感觉很热，或者说很\\n暖和？",
+    "en": "This place feels hot, or \\n rather, warm?",
+    "jp": "ここ暑い、っていうか\\n温かい？",
+    "occurrences": [
+      {
+        "file": "level40",
+        "path_id": 5608,
+        "en_pos": 3912816,
+        "cn_pos": 3912760
+      }
+    ]
+  },
+  {
+    "cn": "书架上的东西其实全是硬盘。",
+    "en": "The things on the \\n bookshelves are actually all \\n hard drives.",
+    "jp": "本棚の物、\\n全部ハードディスク\\nなんだって。",
+    "occurrences": [
+      {
+        "file": "level40",
+        "path_id": 5606,
+        "en_pos": 3912512,
+        "cn_pos": 0
+      }
+    ]
+  },
+  {
+    "cn": "你有没有闻到什么味道，好像\\n有什么东西烧了？",
+    "en": "Do you smell that? It smells \\n like something is burnt.",
+    "jp": "この匂い分かる？\\n何か焦げ臭いんだけど。",
+    "occurrences": [
+      {
+        "file": "level40",
+        "path_id": 5609,
+        "en_pos": 3912968,
+        "cn_pos": 3912896
+      }
+    ]
+  },
+  {
+    "cn": "别走错路，去右下角的出口进入下一层。",
+    "en": "Don't go the wrong way, go \\n to the bottom right to exit \\n and get to the next level ",
+    "jp": "道を間違えるな、\\n右下の出口から\\n次の階に行くんだ",
+    "occurrences": [
+      {
+        "file": "level40",
+        "path_id": 5610,
+        "en_pos": 3913120,
+        "cn_pos": 0
+      }
+    ]
+  },
+  {
+    "cn": "这里给人一种风很大的感觉。",
+    "en": "This place feels windy.",
+    "jp": "ここ、風が強いね。",
+    "occurrences": [
+      {
+        "file": "level42",
+        "path_id": 1411,
+        "en_pos": 300468,
+        "cn_pos": 300424
+      }
+    ]
+  },
+  {
+    "cn": "地面在融化。",
+    "en": "The floor is melting.",
+    "jp": "床が溶けてる。",
+    "occurrences": [
+      {
+        "file": "level44",
+        "path_id": 1367,
+        "en_pos": 274384,
+        "cn_pos": 274360
+      }
+    ]
+  },
+  {
+    "cn": "这个游戏是没有战败CG的。",
+    "en": "We don't have any game \\n over CG :)",
+    "jp": "このゲームに敗北\\nCGはないのだ :)",
+    "occurrences": [
+      {
+        "file": "level14",
+        "path_id": 1445,
+        "en_pos": 0,
+        "cn_pos": 0
+      }
+    ]
+  },
+  {
+    "cn": "我不喜欢这个影子，因为它不\\n是像素的。",
+    "en": "I don't like this shadow, \\n because it's not pixelated.",
+    "jp": "この影、好きじゃない。\\nドット絵じゃないから。",
+    "occurrences": [
+      {
+        "file": "level17",
+        "path_id": 1154,
+        "en_pos": 0,
+        "cn_pos": 0
+      }
+    ]
+  },
+  {
+    "cn": "又一个新玩家！游戏销量加\\n一！",
+    "en": "Yes! Another new player! \\nThat's one more copy of the \\n game sold!",
+    "jp": "やった！新規プレイヤー！\\nゲームの売上が\\nまたひとつ増えた！",
+    "occurrences": [
+      {
+        "file": "level2",
+        "path_id": 1411,
+        "en_pos": 0,
+        "cn_pos": 0
+      }
+    ]
+  },
+  {
+    "cn": "屏幕的海洋，你不觉得这个点\\n子很棒吗。",
+    "en": "An ocean of displays, don't \\n you agree that this is a \\n great idea? ",
+    "jp": "ディスプレイの海、\\nすごいアイデアだと\\n思わない？",
+    "occurrences": [
+      {
+        "file": "level20",
+        "path_id": 1504,
+        "en_pos": 0,
+        "cn_pos": 0
+      }
+    ]
+  },
+  {
+    "cn": "空岛刚刚掉下来了。",
+    "en": "The floating island has just \\n fallen.",
+    "jp": "浮島が今\\n落ちてきた。",
+    "occurrences": [
+      {
+        "file": "level20",
+        "path_id": 1505,
+        "en_pos": 0,
+        "cn_pos": 0
+      }
+    ]
+  },
+  {
+    "cn": "这里本来有一株长着胡子的白\\n色珊瑚，后来它被删掉了。",
+    "en": "There used to be a white \\n coral with long beard here, \\n until it got deleted.",
+    "jp": "ここに長いヒゲの\\n白サンゴがいたんだ、\\n削除されるまでは。",
+    "occurrences": [
+      {
+        "file": "level21",
+        "path_id": 1570,
+        "en_pos": 0,
+        "cn_pos": 0
+      }
+    ]
+  },
+  {
+    "cn": "有没有感觉这个场景有点眼\\n熟。",
+    "en": "Don't you find this scene a \\n little familiar? ",
+    "jp": "この場所、なんか\\n見覚えない？",
+    "occurrences": [
+      {
+        "file": "level22",
+        "path_id": 1307,
+        "en_pos": 0,
+        "cn_pos": 0
+      }
+    ]
+  },
+  {
+    "cn": "水底似乎有什么东西。",
+    "en": "There might be something \\n under the water.",
+    "jp": "水の下に何か\\nいるかも。",
+    "occurrences": [
+      {
+        "file": "level23",
+        "path_id": 1498,
+        "en_pos": 0,
+        "cn_pos": 0
+      }
+    ]
+  },
+  {
+    "cn": "你在评论区跟人玩过文字象棋\\n吗。",
+    "en": "Have you played chess \\n through text in comment \\n sections before?",
+    "jp": "コメ欄でテキスト将棋\\nやったことある？",
+    "occurrences": [
+      {
+        "file": "level30",
+        "path_id": 1471,
+        "en_pos": 0,
+        "cn_pos": 0
+      }
+    ]
+  },
+  {
+    "cn": "别走错房间了。",
+    "en": "Don't go to the wrong room.",
+    "jp": "部屋を間違えるな。",
+    "occurrences": [
+      {
+        "file": "level34",
+        "path_id": 1199,
+        "en_pos": 0,
+        "cn_pos": 0
+      }
+    ]
+  },
+  {
+    "cn": "你有在晚上去过学校的教室\\n吗。",
+    "en": "Have you been to \\n classrooms at night?",
+    "jp": "夜の教室に\\n入ったことある？",
+    "occurrences": [
+      {
+        "file": "level37",
+        "path_id": 1461,
+        "en_pos": 0,
+        "cn_pos": 0
+      }
+    ]
+  },
+  {
+    "cn": "有没有一种想要跳下去看看欲\\n望。",
+    "en": "Do you have a desire to \\n jump down and take a look?",
+    "jp": "飛び降りて見たく\\nなる衝動、ない？",
+    "occurrences": [
+      {
+        "file": "level40",
+        "path_id": 5607,
+        "en_pos": 0,
+        "cn_pos": 0
+      }
+    ]
+  },
+  {
+    "cn": "我喜欢在楼顶呆着。",
+    "en": "I like to stay on the roof.",
+    "jp": "屋上にいるのが好き。",
+    "occurrences": [
+      {
+        "file": "level43",
+        "path_id": 1351,
+        "en_pos": 0,
+        "cn_pos": 0
+      }
+    ]
+  },
+  {
+    "cn": "去试试打碎售货机的玻璃。",
+    "en": "Try to break the glass of the \\n vending machine.",
+    "jp": "自販機のガラスを\\n割ってみるのだ。",
+    "occurrences": [
+      {
+        "file": "level7",
+        "path_id": 1559,
+        "en_pos": 0,
+        "cn_pos": 0
+      }
+    ]
+  },
+  {
+    "cn": "当前状态",
+    "en": "当前状态",
+    "jp": "現在の状態",
+    "occurrences": [
+      {
+        "file": "sharedassets0.assets",
+        "path_id": 1201,
+        "en_pos": 3312704,
+        "cn_pos": 3312704
+      }
+    ]
+  },
+  {
+    "cn": "战斗前,战斗中,战斗后",
+    "en": "战斗前,战斗中,战斗后",
+    "jp": "戦闘前,戦闘中,戦闘後",
+    "occurrences": [
+      {
+        "file": "sharedassets0.assets",
+        "path_id": 1201,
+        "en_pos": 3312752,
+        "cn_pos": 3312752
+      }
+    ]
+  },
+  {
+    "cn": "当前关卡",
+    "en": "当前关卡",
+    "jp": "現在のステージ",
+    "occurrences": [
+      {
+        "file": "sharedassets0.assets",
+        "path_id": 1201,
+        "en_pos": 3312932,
+        "cn_pos": 3312932
+      }
+    ]
+  },
+  {
+    "cn": "跳转场景",
+    "en": "跳转场景",
+    "jp": "シーン移動",
+    "occurrences": [
+      {
+        "file": "sharedassets0.assets",
+        "path_id": 1201,
+        "en_pos": 3313148,
+        "cn_pos": 3313148
+      }
+    ]
+  },
+  {
+    "cn": "跳过对话",
+    "en": "跳过对话",
+    "jp": "対話スキップ",
+    "occurrences": [
+      {
+        "file": "sharedassets0.assets",
+        "path_id": 1201,
+        "en_pos": 3313348,
+        "cn_pos": 3313348
+      }
+    ]
+  },
+  {
+    "cn": "(长按F)",
+    "en": "(长按F)",
+    "jp": "(Fキー長押し)",
+    "occurrences": [
+      {
+        "file": "sharedassets0.assets",
+        "path_id": 1201,
+        "en_pos": 3313616,
+        "cn_pos": 3313616
+      }
+    ]
+  },
+  {
+    "cn": "最大生命值",
+    "en": "最大生命值",
+    "jp": "最大HP",
+    "occurrences": [
+      {
+        "file": "sharedassets0.assets",
+        "path_id": 1201,
+        "en_pos": 3314072,
+        "cn_pos": 3314072
+      }
+    ]
+  },
+  {
+    "cn": "生命值",
+    "en": "生命值",
+    "jp": "HP",
+    "occurrences": [
+      {
+        "file": "sharedassets0.assets",
+        "path_id": 1201,
+        "en_pos": 3314268,
+        "cn_pos": 3314268
+      }
+    ]
+  },
+  {
+    "cn": "锁定生命值",
+    "en": "锁定生命值",
+    "jp": "HP固定",
+    "occurrences": [
+      {
+        "file": "sharedassets0.assets",
+        "path_id": 1201,
+        "en_pos": 3314468,
+        "cn_pos": 3314468
+      }
+    ]
+  },
+  {
+    "cn": "无敌",
+    "en": "无敌",
+    "jp": "無敵",
+    "occurrences": [
+      {
+        "file": "sharedassets0.assets",
+        "path_id": 1201,
+        "en_pos": 3314624,
+        "cn_pos": 3314624
+      }
+    ]
+  },
+  {
+    "cn": "死亡次数",
+    "en": "死亡次数",
+    "jp": "死亡回数",
+    "occurrences": [
+      {
+        "file": "sharedassets0.assets",
+        "path_id": 1201,
+        "en_pos": 3314808,
+        "cn_pos": 3314808
+      }
+    ]
+  },
+  {
+    "cn": "怪物",
+    "en": "怪物",
+    "jp": "モンスター",
+    "occurrences": [
+      {
+        "file": "sharedassets0.assets",
+        "path_id": 1201,
+        "en_pos": 3314976,
+        "cn_pos": 3314976
+      }
+    ]
+  },
+  {
+    "cn": "添加怪物",
+    "en": "添加怪物",
+    "jp": "モンスター追加",
+    "occurrences": [
+      {
+        "file": "sharedassets0.assets",
+        "path_id": 1201,
+        "en_pos": 3315120,
+        "cn_pos": 3315120
+      }
+    ]
+  },
+  {
+    "cn": "添加友军史莱姆",
+    "en": "添加友军史莱姆",
+    "jp": "味方スライム追加",
+    "occurrences": [
+      {
+        "file": "sharedassets0.assets",
+        "path_id": 1201,
+        "en_pos": 3315284,
+        "cn_pos": 3315284
+      }
+    ]
+  },
+  {
+    "cn": "添加Buff",
+    "en": "添加Buff",
+    "jp": "Buff追加",
+    "occurrences": [
+      {
+        "file": "sharedassets0.assets",
+        "path_id": 1201,
+        "en_pos": 3315676,
+        "cn_pos": 3315676
+      }
+    ]
+  },
+  {
+    "cn": "解锁技能",
+    "en": "解锁技能",
+    "jp": "スキル解放",
+    "occurrences": [
+      {
+        "file": "sharedassets0.assets",
+        "path_id": 1201,
+        "en_pos": 3315840,
+        "cn_pos": 3315840
+      }
+    ]
+  },
+  {
+    "cn": "伤害全场",
+    "en": "伤害全场",
+    "jp": "全体ダメージ",
+    "occurrences": [
+      {
+        "file": "sharedassets0.assets",
+        "path_id": 1201,
+        "en_pos": 3316004,
+        "cn_pos": 3316004
+      }
+    ]
+  },
+  {
+    "cn": "秒杀全场",
+    "en": "秒杀全场",
+    "jp": "全体即殺",
+    "occurrences": [
+      {
+        "file": "sharedassets0.assets",
+        "path_id": 1201,
+        "en_pos": 3316168,
+        "cn_pos": 3316168
+      }
+    ]
+  },
+  {
+    "cn": "重置STEAM成就",
+    "en": "重置STEAM成就",
+    "jp": "STEAM実績リセット",
+    "occurrences": [
+      {
+        "file": "sharedassets0.assets",
+        "path_id": 1201,
+        "en_pos": 3316332,
+        "cn_pos": 3316332
+      }
+    ]
+  },
+  {
+    "cn": "中精灵",
+    "en": "中精灵",
+    "jp": "中精霊",
+    "occurrences": [
+      {
+        "file": "sharedassets0.assets",
+        "path_id": 1158,
+        "en_pos": 3223412,
+        "cn_pos": 3223412
+      }
+    ]
+  },
+  {
+    "cn": "人鱼",
+    "en": "人鱼",
+    "jp": "人魚",
+    "occurrences": [
+      {
+        "file": "sharedassets0.assets",
+        "path_id": 1159,
+        "en_pos": 3223492,
+        "cn_pos": 3223492
+      }
+    ]
+  },
+  {
+    "cn": "友军史莱姆",
+    "en": "友军史莱姆",
+    "jp": "味方スライム",
+    "occurrences": [
+      {
+        "file": "sharedassets0.assets",
+        "path_id": 1161,
+        "en_pos": 3223652,
+        "cn_pos": 3223652
+      }
+    ]
+  },
+  {
+    "cn": "变色龙",
+    "en": "变色龙",
+    "jp": "カメレオン",
+    "occurrences": [
+      {
+        "file": "sharedassets0.assets",
+        "path_id": 1162,
+        "en_pos": 3224212,
+        "cn_pos": 3224212
+      }
+    ]
+  },
+  {
+    "cn": "史莱姆1",
+    "en": "史莱姆1",
+    "jp": "スライム1",
+    "occurrences": [
+      {
+        "file": "sharedassets0.assets",
+        "path_id": 1163,
+        "en_pos": 3224292,
+        "cn_pos": 3224292
+      }
+    ]
+  },
+  {
+    "cn": "史莱姆2",
+    "en": "史莱姆2",
+    "jp": "スライム2",
+    "occurrences": [
+      {
+        "file": "sharedassets0.assets",
+        "path_id": 1164,
+        "en_pos": 3224372,
+        "cn_pos": 3224372
+      }
+    ]
+  },
+  {
+    "cn": "史莱姆3",
+    "en": "史莱姆3",
+    "jp": "スライム3",
+    "occurrences": [
+      {
+        "file": "sharedassets0.assets",
+        "path_id": 1165,
+        "en_pos": 3224452,
+        "cn_pos": 3224452
+      }
+    ]
+  },
+  {
+    "cn": "史莱姆4",
+    "en": "史莱姆4",
+    "jp": "スライム4",
+    "occurrences": [
+      {
+        "file": "sharedassets0.assets",
+        "path_id": 1166,
+        "en_pos": 3224532,
+        "cn_pos": 3224532
+      }
+    ]
+  },
+  {
+    "cn": "史莱姆5",
+    "en": "史莱姆5",
+    "jp": "スライム5",
+    "occurrences": [
+      {
+        "file": "sharedassets0.assets",
+        "path_id": 1167,
+        "en_pos": 3224612,
+        "cn_pos": 3224612
+      }
+    ]
+  },
+  {
+    "cn": "史莱姆6",
+    "en": "史莱姆6",
+    "jp": "スライム6",
+    "occurrences": [
+      {
+        "file": "sharedassets0.assets",
+        "path_id": 1168,
+        "en_pos": 3224692,
+        "cn_pos": 3224692
+      }
+    ]
+  },
+  {
+    "cn": "史莱姆花",
+    "en": "史莱姆花",
+    "jp": "スライム花",
+    "occurrences": [
+      {
+        "file": "sharedassets0.assets",
+        "path_id": 1169,
+        "en_pos": 3224772,
+        "cn_pos": 3224772
+      }
+    ]
+  },
+  {
+    "cn": "史莱姆草",
+    "en": "史莱姆草",
+    "jp": "スライム草",
+    "occurrences": [
+      {
+        "file": "sharedassets0.assets",
+        "path_id": 1170,
+        "en_pos": 3224852,
+        "cn_pos": 3224852
+      }
+    ]
+  },
+  {
+    "cn": "吞噬水母",
+    "en": "吞噬水母",
+    "jp": "捕食クラゲ",
+    "occurrences": [
+      {
+        "file": "sharedassets0.assets",
+        "path_id": 1171,
+        "en_pos": 3224932,
+        "cn_pos": 3224932
+      }
+    ]
+  },
+  {
+    "cn": "大精灵",
+    "en": "大精灵",
+    "jp": "大精霊",
+    "occurrences": [
+      {
+        "file": "sharedassets0.assets",
+        "path_id": 1174,
+        "en_pos": 3225316,
+        "cn_pos": 3225316
+      }
+    ]
+  },
+  {
+    "cn": "小精灵",
+    "en": "小精灵",
+    "jp": "小精霊",
+    "occurrences": [
+      {
+        "file": "sharedassets0.assets",
+        "path_id": 1175,
+        "en_pos": 3225396,
+        "cn_pos": 3225396
+      }
+    ]
+  },
+  {
+    "cn": "机器人女仆+",
+    "en": "机器人女仆+",
+    "jp": "メイドロボ+",
+    "occurrences": [
+      {
+        "file": "sharedassets0.assets",
+        "path_id": 1176,
+        "en_pos": 3225476,
+        "cn_pos": 3225476
+      }
+    ]
+  },
+  {
+    "cn": "机器人女仆",
+    "en": "机器人女仆",
+    "jp": "メイドロボ",
+    "occurrences": [
+      {
+        "file": "sharedassets0.assets",
+        "path_id": 1177,
+        "en_pos": 3225556,
+        "cn_pos": 3225556
+      }
+    ]
+  },
+  {
+    "cn": "水母",
+    "en": "水母",
+    "jp": "クラゲ",
+    "occurrences": [
+      {
+        "file": "sharedassets0.assets",
+        "path_id": 1178,
+        "en_pos": 3225644,
+        "cn_pos": 3225644
+      }
+    ]
+  },
+  {
+    "cn": "海葵",
+    "en": "海葵",
+    "jp": "イソギンチャク",
+    "occurrences": [
+      {
+        "file": "sharedassets0.assets",
+        "path_id": 1180,
+        "en_pos": 3225796,
+        "cn_pos": 3225796
+      }
+    ]
+  },
+  {
+    "cn": "章鱼",
+    "en": "章鱼",
+    "jp": "タコ",
+    "occurrences": [
+      {
+        "file": "sharedassets0.assets",
+        "path_id": 1182,
+        "en_pos": 3225948,
+        "cn_pos": 3225948
+      }
+    ]
+  },
+  {
+    "cn": "群主",
+    "en": "群主",
+    "jp": "サーバー主",
+    "occurrences": [
+      {
+        "file": "sharedassets0.assets",
+        "path_id": 1183,
+        "en_pos": 3226020,
+        "cn_pos": 3226020
+      }
+    ]
+  },
+  {
+    "cn": "老鹰",
+    "en": "老鹰",
+    "jp": "ワシ",
+    "occurrences": [
+      {
+        "file": "sharedassets0.assets",
+        "path_id": 1184,
+        "en_pos": 3226092,
+        "cn_pos": 3226092
+      }
+    ]
+  },
+  {
+    "cn": "肥鸟",
+    "en": "肥鸟",
+    "jp": "デブ鳥",
+    "occurrences": [
+      {
+        "file": "sharedassets0.assets",
+        "path_id": 1185,
+        "en_pos": 3226164,
+        "cn_pos": 3226164
+      }
+    ]
+  },
+  {
+    "cn": "蛾子",
+    "en": "蛾子",
+    "jp": "蛾",
+    "occurrences": [
+      {
+        "file": "sharedassets0.assets",
+        "path_id": 1187,
+        "en_pos": 3226348,
+        "cn_pos": 3226348
+      }
+    ]
+  },
+  {
+    "cn": "蜘蛛",
+    "en": "蜘蛛",
+    "jp": "クモ",
+    "occurrences": [
+      {
+        "file": "sharedassets0.assets",
+        "path_id": 1188,
+        "en_pos": 3226420,
+        "cn_pos": 3226420
+      }
+    ]
+  },
+  {
+    "cn": "蝙蝠",
+    "en": "蝙蝠",
+    "jp": "コウモリ",
+    "occurrences": [
+      {
+        "file": "sharedassets0.assets",
+        "path_id": 1189,
+        "en_pos": 3226492,
+        "cn_pos": 3226492
+      }
+    ]
+  },
+  {
+    "cn": "骑士",
+    "en": "骑士",
+    "jp": "騎士",
+    "occurrences": [
+      {
+        "file": "sharedassets0.assets",
+        "path_id": 1192,
+        "en_pos": 3226796,
+        "cn_pos": 3226796
+      }
+    ]
+  },
+  {
+    "cn": "黑鼬",
+    "en": "黑鼬",
+    "jp": "黒イタチ",
+    "occurrences": [
+      {
+        "file": "sharedassets0.assets",
+        "path_id": 1193,
+        "en_pos": 3226868,
+        "cn_pos": 3226868
+      }
+    ]
+  },
+  {
+    "cn": "鼠妇",
+    "en": "鼠妇",
+    "jp": "ダンゴムシ",
+    "occurrences": [
+      {
+        "file": "sharedassets0.assets",
+        "path_id": 1194,
+        "en_pos": 3226940,
+        "cn_pos": 3226940
+      }
+    ]
+  },
+  {
+    "cn": "龙王",
+    "en": "龙王",
+    "jp": "龍王",
+    "occurrences": [
+      {
+        "file": "sharedassets0.assets",
+        "path_id": 1195,
+        "en_pos": 3227012,
+        "cn_pos": 3227012
+      }
+    ]
+  }
+]

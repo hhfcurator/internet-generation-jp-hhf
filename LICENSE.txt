@@ -1,0 +1,68 @@
+Internet Generation 日本語化パッチ ライセンス
+============================================
+
+【免責事項 (DISCLAIMER OF WARRANTY AND LIABILITY)】
+
+本パッチは InsularLobeGame および Internet Generation 公式とは
+一切関係のない第三者 (hhfcurator) による非公式日本語化パッチです。
+
+本パッチは現状有姿 ("AS IS") で提供され、いかなる保証もありません。
+明示的・黙示的を問わず、商品性、特定目的への適合性、権利非侵害を
+含む一切の保証を行いません。
+
+本パッチの利用により生じた、いかなる損害 (ゲームデータの破損、
+セーブデータの消失、Steam アカウントへの影響、PC への影響、業務
+の中断、データの逸失、その他直接的・間接的・付随的・特別・結果的・
+懲罰的損害を含むがこれらに限定されない一切の損害) について、作者
+hhfcurator は一切の責任を負いません。
+
+利用者は完全に自己責任で本パッチを利用するものとします。本パッチを
+インストール、実行、配布、参照、または何らかの形で利用した時点で、
+利用者はこの免責事項に同意したものとみなします。
+
+本パッチに関する問題について、ゲーム開発元 InsularLobeGame に
+問い合わせることは絶対にお控えください。
+
+============================================
+
+【翻訳テキスト】
+本パッチに含まれる日本語訳テキスト一式 (data/*.json 等) は
+Creative Commons 表示-非営利 4.0 国際 (CC BY-NC 4.0) ライセンスの下で
+提供されます。
+
+  https://creativecommons.org/licenses/by-nc/4.0/deed.ja
+
+  - 表示: クレジット (hhfcurator + ライセンス URL) を明示してください
+  - 非営利: 商用目的の利用はできません
+
+【スクリプト類】
+本パッチに含まれるスクリプト (tools/*.py, install.bat 等) は
+MIT ライセンスの下で提供されます。
+
+Copyright (c) 2026 hhfcurator
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS
+BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+============================================
+
+【ゲーム本体】
+Internet Generation 本体の著作権はすべて開発元 InsularLobeGame に
+帰属します。本パッチはゲーム本体を一切含みません。本パッチを使用するには
+Steam 経由で正規版のゲームを購入する必要があります。
